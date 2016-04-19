@@ -1,0 +1,28 @@
+name: SMARTLUXE
+favicon: null
+layout_spectrum: 0.5966484223026782
+typography_spectrum: 0.35574104986153543
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.9426841055974364
+  lightness: 0.4871751263272017
+  saturation: 0.8868188683409244
+  rhythmicContrast: 0.3237768860999495
+purpose: []
